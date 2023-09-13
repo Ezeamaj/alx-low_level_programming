@@ -1,8 +1,8 @@
 #include "main.h"
 
-/* Main - prints _putchar
- *
- * Return 0
+/* main - prints _putchar
+ * as written by ire
+ * return 0
  */
 
 int main(void)
